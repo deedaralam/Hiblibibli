@@ -1,0 +1,27 @@
+// style.css
+// ================
+
+
+// Compass imports
+@import "compass";
+@import "compass/css3/box-shadow";
+@import "compass/reset"
+
+//Core partials
+@import "variables";
+@import "header";
+@import "navigation";
+@import "categories";
+@import "banner";
+@import "ads";
+@import "body";
+@import "popular-cat";
+@import "subscribe";
+
+
+// Footer imports
+@import "footer-nav";
+@import "footer-copyrights";
+
+// bootstrap3 partials
+@import "_bootstrap"
